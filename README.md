@@ -4,6 +4,7 @@
 
 <p align="center">
   Passionate about building scalable applications, solving real-world problems, and transforming data into meaningful insights.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vmBY1oWvy2ZlY7WSIHlZWYj9tO6pVGJumg&s" width="120" >
 </p>
 
 ---
@@ -92,13 +93,11 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN_URL
-* GitHub: YOUR_GITHUB_URL
-* LeetCode: YOUR_LEETCODE_URL
-* HackerRank: YOUR_HACKERRANK_URL
+* LinkedIn: 
+* GitHub:
+* LeetCode: 
+* HackerRank:
 
 ---
 
-### 💭 Quote
 
-"Consistency beats intensity. Learn, Build, Share, Repeat."
