@@ -8,7 +8,7 @@
 </p>
 <p  align="justified">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vmBY1oWvy2ZlY7WSIHlZWYj9tO6pVGJumg&s" width="220" height="220" >
-  <img src="https://miro.medium.com/1*BgcUXqrJV7xNofAFWDrCkw.png" width="220" height="220">
+  <img src="https://miro.medium.com/1*BgcUXqrJV7xNofAFWDrCkw.png" width="320" height="220">
   
 </p>
 
