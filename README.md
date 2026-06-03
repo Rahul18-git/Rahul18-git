@@ -101,8 +101,8 @@
 
 * LinkedIn: [www.linkedin.com/in/muthineni-rahul-a4a254304](https://www.linkedin.com/in/muthineni-rahul-a4a254304)
 * GitHub:https://github.com/Rahul18-git
-* LeetCode: 
-* HackerRank:
+* LeetCode: https://leetcode.com/u/SpliluM1UO/
+* HackerRank:https://www.hackerrank.com/profile/muthinenirahul57
 
 ---
 
