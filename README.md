@@ -4,6 +4,9 @@
 
 <p align="center">
   Passionate about building scalable applications, solving real-world problems, and transforming data into meaningful insights.
+  
+</p>
+<p  align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vmBY1oWvy2ZlY7WSIHlZWYj9tO6pVGJumg&s" width="120" >
 </p>
 
