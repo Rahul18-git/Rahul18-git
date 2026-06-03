@@ -99,7 +99,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/muthineni-rahul-a4a254304
+* LinkedIn: [www.linkedin.com/in/muthineni-rahul-a4a254304](https://www.linkedin.com/in/muthineni-rahul-a4a254304)
 * GitHub:https://github.com/Rahul18-git
 * LeetCode: 
 * HackerRank:
