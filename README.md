@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Muthineni Rahul</h1>
 
-<h3 align="center">Aspiring Software Developer | MERN Stack Developer | Future Data Analyst</h3>
+<h3 align="center">Aspiring Software Developer | Full Stack Developer | Future Data Analyst</h3>
 
 <p align="center">
   Passionate about building scalable applications, solving real-world problems, and transforming data into meaningful insights.
