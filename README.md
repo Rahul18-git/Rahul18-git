@@ -19,7 +19,7 @@
 
 * 🎓 B.Tech Computer Science Student at SR University (2023–2027)
 * 💻 MERN Stack Developer with hands-on project experience
-* 📊 Currently learning Data Analytics, SQL, Python, and Power BI
+* 📊 Intrested in Data Analytics, SQL, Python, and Power BI
 * 🌱 Exploring Machine Learning and Cloud Technologies
 * 🧠 Strong interest in Data Structures & Algorithms
 * 🎯 Goal: Become a  Software Engineer
