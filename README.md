@@ -6,11 +6,14 @@
   Passionate about building scalable applications, solving real-world problems, and transforming data into meaningful insights.
   
 </p>
-<p  align="left">
+<p align="left">
+  <img src="https://img.magnific.com/free-photo/business-data-analysis_53876-95296.jpg"
+       width="220" height="220"
+       alt="Business Data Analysis"
+       style="margin-right: 20px;">
 
-  <img src="https://img.magnific.com/free-photo/business-data-analysis_53876-95296.jpg" width="220" height="220" alt="Business Data Analysis">
-  <img src="https://miro.medium.com/1*BgcUXqrJV7xNofAFWDrCkw.png" width="220" height="220">
-  
+  <img src="https://miro.medium.com/1*BgcUXqrJV7xNofAFWDrCkw.png"
+       width="220" height="220">
 </p>
 
 ---
