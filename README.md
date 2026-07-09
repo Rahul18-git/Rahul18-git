@@ -7,17 +7,10 @@
   
 </p>
 
-  <table>
-  <tr>
-    <td>
-      <img src="https://img.magnific.com/free-photo/business-data-analysis_53876-95296.jpg" width="220" height="220" alt="Business Data Analysis">
-    </td>
-    <td width="30"></td> <!-- Space -->
-    <td>
-      <img src="https://miro.medium.com/1*BgcUXqrJV7xNofAFWDrCkw.png" width="220" height="220" alt="Data Science">
-    </td>
-  </tr>
-</table>
+ <p align="left">
+  <img src="https://img.magnific.com/free-photo/business-data-analysis_53876-95296.jpg" width="220" height="220" alt="Business Data Analysis">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://miro.medium.com/1*BgcUXqrJV7xNofAFWDrCkw.png" width="220" height="220" alt="Data Science">
+</p>
 
 
 ---
