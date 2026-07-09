@@ -6,7 +6,7 @@
   Passionate about building scalable applications, solving real-world problems, and transforming data into meaningful insights.
   
 </p>
-<p align="left">
+
   <table>
   <tr>
     <td>
@@ -18,7 +18,7 @@
     </td>
   </tr>
 </table>
-</p>
+
 
 ---
 
