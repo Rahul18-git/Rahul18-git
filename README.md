@@ -22,7 +22,7 @@
 * 📊 Currently learning Data Analytics, SQL, Python, and Power BI
 * 🌱 Exploring Machine Learning and Cloud Technologies
 * 🧠 Strong interest in Data Structures & Algorithms
-* 🎯 Goal: Become a Data Analyst and Software Engineer
+* 🎯 Goal: Become a  Software Engineer
 
 ---
 
